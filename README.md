@@ -1,5 +1,5 @@
 # sales_price_prediction
-Sales Price Prediction Using Machine Learning
+
 # Objective
 To understand, analyze, and represent the dataset to predict sales prices using machine learning techniques.
 
