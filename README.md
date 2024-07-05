@@ -2,6 +2,7 @@
 Sales Price Prediction Using Machine Learning
 # Objective
 To understand, analyze, and represent the dataset to predict sales prices using machine learning techniques.
+
 # Steps
 1. Loading the Dataset
 Download the dataset from Kaggle using the link: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data
