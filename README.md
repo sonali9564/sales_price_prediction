@@ -3,9 +3,7 @@
 # Objective
 To understand, analyze, and represent the dataset to predict sales prices using machine learning techniques.
 # Steps
-1. Loading the Dataset - 
-
-Download the dataset from Kaggle using the link: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data
+1. Loading the Dataset - Download the dataset from Kaggle using the link: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data/data
 
 3. Basic Understanding of the Data -
 It's crucial to understand the basic information regarding the dataset to ensure proper training of the model.
