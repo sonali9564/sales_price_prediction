@@ -26,8 +26,8 @@ The trained model is tested on the 20% testing dataset.
 This helps in evaluating the model's performance using appropriate metrics.  
 
 8. Evaluating the Model -
-Finally, the R² score of the model is checked on both training and testing data.
-The training data R² score is 85.5% and the testing data R² score is 85.5%.  
+Finally, the R² score of the model is checked on testing data.
+The R² score on testing data is 85.5%.  
 
 # Outcome
 The model successfully predicts car prices with a reasonable degree of accuracy, as indicated by the R² scores.
